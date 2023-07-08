@@ -13,7 +13,7 @@ public class HolaMundoGit
 	 */
 	public static void main (String[] args)
 	{
-		System.out.println("Hola mundo para usar con Git");
+		System.out.println("Hola mundo Git");
 	}
 	
 }
